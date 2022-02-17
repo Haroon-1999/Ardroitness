@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Ardroitness</string>
+    <string name='random'>Give Me Something Random</string>
+    <string name="van">Vincent Van Gogh</string>
+    <string name="pablo">Pablo Picasso</string>
+    <string name="dali">Salvador Dali</string>
+    <string name="nara">Yoshitomo Nara</string>
+    <string name="van1"></string>
+    <string name="van2"></string>
+    <string name="van3"></string>
+    <string name="van4"></string>
+    <string name="van5"></string>
+    <string name="van6"></string>
+    <string name="van7"></string>
+    <string name="van8"></string>
+    <string name="van9"></string>
+    <string name="van10"></string>
+
 </resources>
