@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
-        <entry key="app/src/main/res/layout/list_item.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/hdoss/AndroidStudioProjects/Ardroitness/app/src/main/res/layout/activity_detail.xml" value="0.1286231884057971" />
+        <entry key="..\:/Users/hdoss/AndroidStudioProjects/Ardroitness/app/src/main/res/layout/activity_main.xml" value="0.13601823708206687" />
+        <entry key="..\:/Users/hdoss/AndroidStudioProjects/Ardroitness/app/src/main/res/layout/list_item.xml" value="0.1" />
+        <entry key="..\:/Users/hdoss/AndroidStudioProjects/Ardroitness/app/src/main/res/layout/random_page.xml" value="0.1286231884057971" />
       </map>
     </option>
   </component>
