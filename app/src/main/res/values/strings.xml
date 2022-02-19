@@ -5,16 +5,15 @@
     <string name="pablo">Pablo Picasso</string>
     <string name="dali">Salvador Dali</string>
     <string name="nara">Yoshitomo Nara</string>
-    <string name="van1"></string>
-    <string name="van2"></string>
-    <string name="van3"></string>
-    <string name="van4"></string>
-    <string name="van5"></string>
-    <string name="van6"></string>
-    <string name="van7"></string>
-    <string name="van8"></string>
-    <string name="van9"></string>
-    <string name="van10"></string>
+    <string name="guernica_name">Guernica</string>
+    <string name="guernica_year">1937</string>
+    <string name="weeping_woman_name">The Weeping Woman</string>
+    <string name="weeping_woman_year">1937</string>
+    <string name="guitarist_name">The Old Guitarist</string>
+    <string name="guitarist_year">1904</string>
+    <string name="self_portrait_name">Self-Portrait</string>
+    <string name="self_portrait_year">1901</string>
+
 
 
 </resources>

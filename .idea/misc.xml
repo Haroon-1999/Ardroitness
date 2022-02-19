@@ -3,14 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/hdoss/AndroidStudioProjects/Ardroitness/app/src/main/res/layout/activity_detail.xml" value="0.1286231884057971" />
-        <entry key="..\:/Users/hdoss/AndroidStudioProjects/Ardroitness/app/src/main/res/layout/activity_main.xml" value="0.13601823708206687" />
-        <entry key="..\:/Users/hdoss/AndroidStudioProjects/Ardroitness/app/src/main/res/layout/list_item.xml" value="0.1" />
-        <entry key="..\:/Users/hdoss/AndroidStudioProjects/Ardroitness/app/src/main/res/layout/random_page.xml" value="0.1286231884057971" />
-        <entry key="app/src/main/res/layout/activity_gallery.xml" value="0.15416666666666667" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.15416666666666667" />
-        <entry key="app/src/main/res/layout/list_item.xml" value="0.1703125" />
-        <entry key="app/src/main/res/layout/random_page.xml" value="0.15416666666666667" />
+        <entry key="..\:/Users/Hardy/AndroidStudioProjects/Ardroitness/app/src/main/res/layout/activity_gallery.xml" value="0.2125" />
+        <entry key="..\:/Users/Hardy/AndroidStudioProjects/Ardroitness/app/src/main/res/layout/activity_main.xml" value="0.17857142857142858" />
+        <entry key="..\:/Users/Hardy/AndroidStudioProjects/Ardroitness/app/src/main/res/layout/list_item.xml" value="0.17857142857142858" />
+        <entry key="..\:/Users/Hardy/AndroidStudioProjects/Ardroitness/app/src/main/res/layout/random_page.xml" value="0.1033434650455927" />
+        <entry key="..\:/Users/Hardy/AndroidStudioProjects/Ardroitness/app/src/main/res/layout/vertical_list.xml" value="0.2125" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/list_item.xml" value="0.15885416666666666" />
       </map>
     </option>
   </component>
