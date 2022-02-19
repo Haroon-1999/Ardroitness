@@ -14,10 +14,10 @@ class DataSource {
     }
     fun loadDali() : List<Art> {
         return listOf<Art>(
-            Art(R.string.test, R.drawable.testimg),
-            Art(R.string.test, R.drawable.testimg),
-            Art(R.string.test, R.drawable.testimg),
-            Art(R.string.test, R.drawable.testimg)
+            Art(R.string.dali1, R.drawable.dali_persistence_of_memory),
+            Art(R.string.dali2, R.drawable.dali_great_masturbator),
+            Art(R.string.dali3, R.drawable.dali_burning_giraffe),
+            Art(R.string.dali4, R.drawable.dali_temptation_of_anthony)
         )
     }
     fun loadPicasso() : List<Art> {

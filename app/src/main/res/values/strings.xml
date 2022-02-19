@@ -5,14 +5,18 @@
     <string name="pablo">Pablo Picasso</string>
     <string name="dali">Salvador Dali</string>
     <string name="nara">Yoshitomo Nara</string>
-    <string name="guernica">Guernica 1937</string>
-    <string name="weeping_woman">The Weeping Woman 1937</string>
-    <string name="guitarist">The Old Guitarist 1904</string>
-    <string name="self_portrait">Self-Portrait 1901</string>
+    <string name="guernica">Guernica: Picasso painted Guernica at his home in Paris in response to the 26 April 1937 bombing of Guernica, a Basque Country town in northern Spain which was bombed by Nazi Germany and Fascist Italy at the request of the Spanish Nationalists. It is one of Picassos best-known works, regarded by many art critics as the most moving and powerful anti-war painting in history.</string>
+    <string name="weeping_woman">The Weeping Woman: The Weeping Woman was created by Picasso in France in 1937. The painting depicts Dora Maar, Picassos mistress and muse. The painting  was created at the end of a series of paintings that Picasso produced in response to the bombing of Guernica in the Spanish Civil War and is closely associated with the iconography in his painting Guernica.</string>
+    <string name="guitarist">The Old Guitarist: The Old Guitarist is an oil painting by Pablo Picasso, which he created in late 1903 and early 1904. It depicts an elderly musician, a haggard man with threadbare clothing, who is hunched over his guitar while playing in the streets of Barcelona, Spain.</string>
+    <string name="self_portrait">Self-Portrait 1901: This Self-Portrait, painted during his second stay in Paris in the winter of 1901, was the end of a series and marked the beginning of the Blue Period. He returned to Barcelona in January 1902.</string>
     <string name="van1">Starry Night: Starry Night was painted in 1889 by Vincent Van Gogh while he was at the Saint Paul de Mausole asylum, where he was given the freedom to paint and read. Van Gogh was recovering well until a relapse occurred that sent him back down a dark, suicidal place mentally and, out of this depression, he painted Starry Night.</string>
     <string name="van2">Sunflowers: Sunflowers is part of a series of sunflower paintings done by Van Gogh. These paintings sought to change perspectives on both art and life, and are renowned for their level of detail and perfect expression of the beauty of nature that few have been able to replicate. </string>
     <string name="van3">Potato Eaters: Potato Eaters was completed in 1885 and is today viewed to be Vincent van Gogh’s first great work of art. The goal of this painting was to portray humans existing naturally, and not looking awkward. While Van Gogh’s unrefined technique caused him to miss the mark with his initial goal, the result made the painting more respected by the art community. </string>
     <string name="van4">Worn Out: Worn Out is a drawing done by Van Gogh in the early part of his career (1882). While done for practice, Worn Out captured the exhaustion of the working class, whom Van Gogh had a knack for drawing in a way that showed life.</string>
+    <string name="dali1">The Persistence of Memory: The Persistence of Memory is a 1931 painting by artist Salvador Dalí and one of the most recognizable works of Surrealism. It is widely recognized and frequently referred to in popular culture, and sometimes referred to by more descriptive titles, such as "Melting Clocks", "The Soft Watches" or "The Melting Watches".</string>
+    <string name="dali2">The Great Masturbator: The Great Masturbator (1929) is a painting by Salvador Dalí executed during the surrealist epoch. The centre of the painting has a distorted human face in profile looking downwards, based on the shape of a natural rock formation at Cap de Creus along the sea-shore of Catalonia.</string>
+    <string name="dali3">The Burning Giraffe: Burning Giraffe is painted by Dalí before his exile in the United States, which was from 1940 to 1948. The opened drawers in this expressive, propped up female figure thus refer to the inner subconscious within man.</string>
+    <string name="dali4">The Temptation of St. Anthony: The Temptation of St. Anthony is painted by Dalí in 1946. It is a precursor to the body of Dalís work commonly known as the "classical period" or the "Dalí Renaissance".</string>
 
     <string name="test">TestText abcdefghijklmnopqrstuvwxyz</string>
 
