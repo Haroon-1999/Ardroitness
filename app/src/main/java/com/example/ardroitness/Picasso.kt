@@ -1,9 +1,10 @@
+package com.example.ardroitness
+
 import android.os.Bundle
 import android.os.PersistableBundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.RecyclerView
 import com.example.ardroitness.Adapter.ItemAdapter
-import com.example.ardroitness.R
 import com.example.ardroitness.dataSource.DataSource
 
 class Picasso : AppCompatActivity() {

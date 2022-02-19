@@ -22,10 +22,10 @@ class DataSource {
     }
     fun loadPicasso() : List<Art> {
         return listOf<Art>(
-            Art(R.string.test, R.drawable.testimg),
-            Art(R.string.test, R.drawable.testimg),
-            Art(R.string.test, R.drawable.testimg),
-            Art(R.string.test, R.drawable.testimg)
+            Art(R.string.guernica, R.drawable.guernica),
+            Art(R.string.weeping_woman, R.drawable.weeping_woman),
+            Art(R.string.guitarist, R.drawable.guitarist),
+            Art(R.string.self_portrait, R.drawable.self_portrait)
         )
     }
     fun loadNara() : List<Art> {
