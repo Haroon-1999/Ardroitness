@@ -12,7 +12,7 @@ class Gogh : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_gallery)
 
-        val dataset = DataSource().loadArt()
+        val dataset = DataSource().loadGogh()
         val recyclerView = findViewById<RecyclerView>(R.id.recycler_view)
         recyclerView.adapter = ItemAdapter(this, dataset)
 
