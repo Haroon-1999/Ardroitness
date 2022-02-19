@@ -6,10 +6,10 @@ import com.example.ardroitness.R
 class DataSource {
     fun loadGogh() : List<Art> {
         return listOf<Art>(
-            Art(R.string.test, R.drawable.testimg),
-            Art(R.string.test, R.drawable.testimg),
-            Art(R.string.test, R.drawable.testimg),
-            Art(R.string.test, R.drawable.testimg)
+            Art(R.string.van1, R.drawable.starrynightgogh),
+            Art(R.string.van2, R.drawable.sunflowersvangogh),
+            Art(R.string.van3, R.drawable.potatoeatersvangogh),
+            Art(R.string.van4, R.drawable.wornoutvangogh)
         )
     }
     fun loadDali() : List<Art> {

@@ -21,6 +21,12 @@
         <activity android:name=".Picasso"
             android:parentActivityName=".MainActivity"
             ></activity>
+        <activity android:name=".Dali"
+            android:parentActivityName=".MainActivity"
+            ></activity>
+        <activity android:name=".Nara"
+            android:parentActivityName=".MainActivity"
+            ></activity>
         <activity
             android:name=".MainActivity"
             android:exported="true">
