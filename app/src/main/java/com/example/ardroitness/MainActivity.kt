@@ -14,7 +14,8 @@ class MainActivity : AppCompatActivity() {
 
         val button = findViewById<Button>(R.id.button_random)
         button.setOnClickListener(){
-            intent = Intent(this, RandomPage::class.java)
+            //intent = Intent(this, RandomPage::class.java)
+            intent = Intent(this, Gogh::class.java)
             startActivity(intent)
         }
 
