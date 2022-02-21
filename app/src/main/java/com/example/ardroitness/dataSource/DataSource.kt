@@ -30,10 +30,10 @@ class DataSource {
     }
     fun loadNara() : List<Art> {
         return listOf<Art>(
-            Art(R.string.test, R.drawable.testimg),
-            Art(R.string.test, R.drawable.testimg),
-            Art(R.string.test, R.drawable.testimg),
-            Art(R.string.test, R.drawable.testimg)
+            Art(R.string.nara1, R.drawable.midnight_truth_nara),
+            Art(R.string.nara2, R.drawable.sleepless_night_sitting_nara),
+            Art(R.string.nara3, R.drawable.girl_with_knife_nara),
+            Art(R.string.nara4, R.drawable.a_to_z_memorial_dog)
         )
     }
 
